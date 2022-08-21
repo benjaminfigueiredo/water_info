@@ -1,10 +1,12 @@
 Package: waterinfo
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Water Density At Room Temperature
+Version: 1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Benjamin", "Garcia de Figueiredo", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+URL: https://github.com/benjaminfigueiredo/water_info
+BugReports: https://github.com/benjaminfigueiredo/water_info/issues
+Description: Shows water density at room temperature.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
