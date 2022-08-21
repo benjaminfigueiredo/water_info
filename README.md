@@ -16,7 +16,7 @@ ambient temperature
 You can install the development version of waterinfo like so:
 
 ``` r
-remotes::install_github("benjaminfigueiredo/foo")
+remotes::install_github("benjaminfigueiredo/water_info")
 ```
 
 ## Example
